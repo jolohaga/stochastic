@@ -1,0 +1,9 @@
+.Gemfile
+/.bundle
+/.ruby-version
+/.tm_properties
+pkg
+/.byebug_history
+Gemfile.lock
+stochastic-*.gem
+notes
